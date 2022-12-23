@@ -1,4 +1,4 @@
-# vpn-implementation
+# vpn-implementation   
 
 A Virtual Private Network (VPN) is a network that is used to create a private scope of computer communications or to provide a secure extension of a private network over an insecure network such as the Internet.
 IP Sec or Secure Socket Layer can be used to build a VPN (SSL). These are two fundamentally distinct approaches to VPN development.
